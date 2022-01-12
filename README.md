@@ -13,3 +13,6 @@ Repositório para armazenar os projetos em Java
 
 #### Calculadora de Salario Liquido
 - [Calculadora de Salario Liquido](https://github.com/JSouza27/Calculadora_de_Salario_Liquido-Java)
+
+#### Gerenciador de Times de Futebol
+- [Gerenciador de Times de Futebol](https://github.com/JSouza27/Gerenciador-de-Times-de-Futebol-Java)
