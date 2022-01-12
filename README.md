@@ -1,4 +1,4 @@
-# Java
+# Development in Java :white_check_mark:
 
 Repositório para armazenar os projetos em Java
 
