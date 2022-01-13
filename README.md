@@ -23,3 +23,9 @@ Repositório para armazenar os projetos em Java
 #### Criando Entidades de Banco de Dados
 
 - [Criando Entidades de Banco de Dados](https://github.com/JSouza27/Criando-Entidades-de-Banco-de-Dados-Java)
+
+#### Order Service
+- [Order Service](https://github.com/JSouza27/Order-Service-Java)
+
+#### Spring WEB
+- [Spring WEB](https://github.com/JSouza27/Spring-WEB-Java)
