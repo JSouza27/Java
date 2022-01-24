@@ -29,3 +29,6 @@ Repositório para armazenar os projetos em Java
 
 #### Spring WEB
 - [Spring WEB](https://github.com/JSouza27/Spring-WEB-Java)
+
+#### central de erros
+- [central-de-erros](https://github.com/gustavofds/central-de-erros/tree/master)
